@@ -1,0 +1,12 @@
+1) Report title
+2) Sammary
+3) Project
+4) Platform
+5) Status
+6) Priority
+7) Severity
+8) Precondition
+9) Steps to Reproduce
+10) Actual Result
+11) Expected Result
+12) Attached files
